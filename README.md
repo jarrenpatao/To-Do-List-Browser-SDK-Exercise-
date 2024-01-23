@@ -1,6 +1,6 @@
-# react-app-typescript-fv1
+# TypeScript React App (To Do List)
 
-It is a single page application written using Create React App, Typescript, React Hooks, with full create, read, update, delete, search and filter functionality.
+It is a single page application written using Create React App, Typescript, React Hooks, with full create, read, update, delete, search and filter functionality. Forked from https://github.com/albaitas/react-app-typescript-fv1
 
 ## Demo
 
@@ -25,16 +25,16 @@ Project hosted on Netlify: https://react-app-typescript-fv1.netlify.app/
 
 ## Installation
 
-Install **`git`**, **`nodejs`**, **`npm`** in your local computer
+Install **`git`**, **`nodejs`**, **`npm/yarn`** in your local computer (preferrably **`yarn`**)
 
 Clone this repository to your local computer:
 
-**`$ git clone https://github.com/albaitas/react-app-typescript-fv1.git`**
+**`git clone https://github.com/jarrenpatao/To-Do-List-Browser-SDK-Exercise-.git`**
 
 Install dependencies:
 
-**`npm install`**
+**`npm install`** or **`yarn`**
 
 Runs the app in the development mode:
 
-**`npm start`**
+**`yarn start`** or **`npm start`**
